@@ -1,1 +1,4 @@
 test.txt
+Seems like smartgit does not add the git binary to your path. 
+ou have to add its path to the PATH environment variable or first change to the corresponding directory. 
+You can find a screencast here:
